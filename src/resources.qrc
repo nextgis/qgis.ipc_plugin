@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/ipcplugin/">
+    <file>icons/info.png</file>
+    <file>icons/settings.png</file>
+  </qresource>
+</RCC>
