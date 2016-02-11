@@ -4,6 +4,6 @@ qgisMinimumVersion=2.0
 
 description=description
 about=about
-version=1.0.0
+version=1.0.1
 author=Alexander Lisovenko
 email=alexander.lisovenko@gmail.com
